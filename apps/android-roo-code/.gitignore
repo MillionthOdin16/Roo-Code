@@ -1,0 +1,23 @@
+# Android build files
+.gradle/
+build/
+*.apk
+*.ap_
+*.aab
+
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+
+# Local configuration files
+local.properties
+gradle.properties
+
+# Temporary files
+*.tmp
+*.temp
+build.gradle.temp
+
+# Logs
+*.log
