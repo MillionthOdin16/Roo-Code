@@ -15,5 +15,3 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "RooCode"
-include ':app'
-project(':app').projectDir = file('.')
