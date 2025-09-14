@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="roo_code_blue">#2563EB</color>
+    <color name="roo_code_blue_dark">#1D4ED8</color>
+    <color name="roo_code_gray">#6B7280</color>
+    <color name="roo_code_gray_light">#F3F4F6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

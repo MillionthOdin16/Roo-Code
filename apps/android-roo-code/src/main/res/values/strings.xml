@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Roo Code</string>
+    <string name="chat_placeholder">Ask Roo Code anything...</string>
+    <string name="send">Send</string>
+    <string name="settings">Settings</string>
+    <string name="pause_task">Pause Task</string>
+    <string name="complete_task">Complete Task</string>
+    <string name="new_task">New Task</string>
+    <string name="error_loading_task">Error loading task</string>
+    <string name="error_creating_task">Error creating task</string>
+    <string name="thinking">Roo Code is thinking...</string>
+</resources>

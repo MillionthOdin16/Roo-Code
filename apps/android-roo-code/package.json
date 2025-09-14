@@ -1,0 +1,24 @@
+{
+	"name": "@roo-code/android-roo-code",
+	"version": "1.0.0",
+	"description": "Android app for Roo Code agent orchestration",
+	"private": true,
+	"scripts": {
+		"build": "echo 'Building Android app...' && ./gradlew assembleDebug",
+		"test": "echo 'Running Android tests...' && ./gradlew test",
+		"lint": "echo 'Linting Android code...' && ./gradlew lint",
+		"clean": "echo 'Cleaning Android build...' && ./gradlew clean",
+		"install-debug": "./gradlew installDebug",
+		"install-release": "./gradlew installRelease"
+	},
+	"keywords": [
+		"android",
+		"ai",
+		"agent",
+		"chat",
+		"mcp",
+		"roo-code"
+	],
+	"dependencies": {},
+	"devDependencies": {}
+}
